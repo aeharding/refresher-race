@@ -1,0 +1,7 @@
+{
+  "name": "refresher-race",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
